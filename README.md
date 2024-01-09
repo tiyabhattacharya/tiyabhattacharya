@@ -1,9 +1,9 @@
 👋Hello Github Members!
 🌻I'am Tiya Bhattacharya.<br>
-A 3rd year btech undergrad student , & a tech enthusiast. I'm looking for new opportunities to explore and upskill. My current area of interest is MERN stack development. I also have good grasp on DSA and OOPs.<br>
+A 3rd year btech undergrad student , & a tech enthusiast. I'm looking for new opportunities to explore and upskill. My current area of interest is devops. I also learning and practicing dsa .<br>
 
 # 💫 About Me:
-🔭I'm currently working on Instagram clone.<br>🌱I'm currently learning backend development.<br>💭Ask me about frontend development.<br>🤓Fun fact: TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.
+🔭I'm currently working on Java programming language.<br>🌱I'm currently learning devops.<br>💭Ask me about mern stack development.<br>🤓Fun fact: TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.
 
 
 ## 🌐 Socials:
